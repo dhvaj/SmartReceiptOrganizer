@@ -1,0 +1,5 @@
+{
+  "name": "Smart Receipt Organizer",
+  "description": "A smart receipt organizer that uses Gemini 2.5 Flash to extract data from receipt images and visualize spending habits.",
+  "requestFramePermissions": []
+}
